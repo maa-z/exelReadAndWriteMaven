@@ -1,0 +1,4 @@
+product,price
+productA,1
+productB,2
+productC,3
